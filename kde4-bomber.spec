@@ -10,7 +10,7 @@ License:	GPL
 Group:		X11/Applications/Games
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	bceead58f2e21884917d47f2a1728a2b
+# Source0-md5:	07008450fe24f4e1180299a023df5841
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
