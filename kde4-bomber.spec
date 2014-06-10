@@ -4,13 +4,13 @@
 
 Summary:	bomber
 Name:		kde4-%{orgname}
-Version:	4.13.1
+Version:	4.13.2
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	14c6b582bb2ad0fb20ceb65487093087
+# Source0-md5:	aba4ec8338a7edc6dfbd37a5bc0a5d4e
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
